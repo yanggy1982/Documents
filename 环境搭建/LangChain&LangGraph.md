@@ -3,6 +3,11 @@
 
 ## 1、创建conda环境
 
+```shell
+conda create -n LangChainStudy python=3.12
+
+conda activate LangChainStudy
+```
 
 ## 2、安装依赖包
 
@@ -50,6 +55,8 @@ pip install langchain-ollama
 pip install langchain-deepseek
 
 pip install langchain_huggingface
+
+pip install sentence-transformers
 
 pip install qianfan
 
