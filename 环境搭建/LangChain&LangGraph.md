@@ -61,4 +61,8 @@ pip install sentence-transformers
 pip install qianfan
 
 pip install dashscope
+
+pip install fastembed
+
+pip install FlagEmbedding
 ```
