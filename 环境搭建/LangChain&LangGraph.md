@@ -29,6 +29,8 @@ pip install langgraph
 
 ```shell
 pip install langgraph-checkpoint-postgres
+
+pip install langgraph-checkpoint-mongodb
 ```
 
 ### 2.3、安装LangChain
