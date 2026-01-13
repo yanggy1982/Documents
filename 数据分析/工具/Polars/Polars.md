@@ -10,5 +10,5 @@
 ### 1.2、安装
 
 ```shell
-pip install duckdb
+pip install polars
 ```
