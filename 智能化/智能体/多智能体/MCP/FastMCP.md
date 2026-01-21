@@ -5,6 +5,8 @@
 
 ### 1.1、什么是FastMCP
 
+
+
 ## 2、FastMCP安装
 
 ```shell
