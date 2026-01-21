@@ -54,7 +54,7 @@ async def tool():
     return "工具返回的响应！"
 
 
-@cl.on_message  # 当用户在 UI 中输入消息时，此函数将被调用
+@cl.on_message  
 async def main(message: cl.Message):
     """
     当用户在 UI 中输入消息时，此函数将被调用。
